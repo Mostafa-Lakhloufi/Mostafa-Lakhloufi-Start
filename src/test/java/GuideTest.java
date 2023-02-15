@@ -22,6 +22,7 @@ public class GuideTest {
      * This is a variable. It can be accessed by any of the class's methods (we refer to this as being scoped to
      * the entire class). In Java, We always need to define the kind of data that a variable could be - this
      * variable's datatype is of type 'Guide', which is an Object of type Guide.
+     * 
      * Writing a class, in a sense, is defining a custom data type (that can also run methods). This Guide must be
      * created so that the tests cases in this class can verify that the Guide object works as expected.
      */
